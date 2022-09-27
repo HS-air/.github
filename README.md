@@ -1,2 +1,3 @@
-# .github
-/profile/README.md
+# HS-air
+
+Everything related to our HS-air project...
